@@ -1,2 +1,3 @@
 # lovepew9
-cd lovepew9 python Samon.py
+cd lovepew9 
+python Samon.py
